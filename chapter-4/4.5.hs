@@ -1,7 +1,7 @@
 (&&*) :: Bool -> Bool -> Bool 
 (&&*) x y = 
-    if x == True then 
-        if y == True then 
+    if x then 
+        if y then 
             True 
         else 
             False 
