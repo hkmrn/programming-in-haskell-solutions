@@ -1,6 +1,6 @@
 # Programming in Haskell Solutions
 
-This repository contains my solutions to exercises from **Programming in Haskell** by **Graham Hutton**.
+This repository contains my solutions to selected exercises from **Programming in Haskell** by **Graham Hutton**.
 
 ## Structure
 - Solutions are organized by chapter and exercise number.
